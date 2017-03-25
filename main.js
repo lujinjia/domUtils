@@ -20,6 +20,6 @@ require(['domUtils'], function() {
     //2.获取Element元素的子元素数量
 
     //3.获取Elment元素的上个或者下个兄弟元素
-
+    var change = 'change';
 
 });
